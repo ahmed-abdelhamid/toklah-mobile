@@ -1,0 +1,22 @@
+export default [
+  'Riyadh',
+  'Jeddah',
+  'Dammam',
+  'Al-Khobar',
+  'Dhahran',
+  'Al-Ahsa',
+  'Qatif',
+  'Jubail',
+  'Taif',
+  'Tabouk',
+  'Abha',
+  'Al Baha',
+  'Jizan',
+  'Najran',
+  'Hail',
+  'Makkah AL-Mukkaramah',
+  'AL-Madinah Al-Munawarah',
+  'Al Qaseem',
+  'Jouf',
+  'Yanbu'
+];

@@ -1,0 +1,21 @@
+export default {
+  name: '',
+  email: '',
+  mobile: '',
+  birthdate: '',
+  gender: null,
+  city: '',
+  occupation: '',
+  specialization: '',
+  education: '',
+  tshirtSize: '',
+  iban: '',
+  arabic: false,
+  english: false,
+  skills: '',
+  image: '',
+  summary: '',
+  password: '',
+  confirmPassword: '',
+  terms: false
+};
